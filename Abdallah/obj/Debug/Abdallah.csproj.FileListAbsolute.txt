@@ -1,0 +1,6 @@
+C:\Users\33758\source\repos\Abdallah\bin\Debug\Abdallah.exe
+C:\Users\33758\source\repos\Abdallah\bin\Debug\Abdallah.pdb
+C:\Users\33758\source\repos\Abdallah\obj\Debug\Abdallah.csprojAssemblyReference.cache
+C:\Users\33758\source\repos\Abdallah\obj\Debug\Abdallah.csproj.CoreCompileInputs.cache
+C:\Users\33758\source\repos\Abdallah\obj\Debug\Abdallah.exe
+C:\Users\33758\source\repos\Abdallah\obj\Debug\Abdallah.pdb
